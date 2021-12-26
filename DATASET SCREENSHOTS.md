@@ -1,4 +1,4 @@
-Below are screen shots of the SQL-Query (run successfully) and the two dataset notebooks
+Below are screen shots of the SQL-Query (run successfully) and the two dataset notebooks. Line 16 in DataSet 1 and line 37 in DataSet 2 has been replaced to remove the RDS password and endpoint from public view.
 
 **SQL-Query**
 
