@@ -44,3 +44,16 @@ Below are screen shots of the SQL-Query (run successfully) and the two dataset n
 
 
 ![6](Screenshots/Dataset2-6.PNG)
+
+
+**SQL-Query Tables**
+
+![1](Screenshots/SQL_customers_Table.PNG)
+
+![2](Screenshots/SQL_products_Table.PNG)
+
+![3](Screenshots/SQL_review_id_table_Table.PNG)
+
+![4](Screenshots/SQL_vine_table.PNG)
+
+
