@@ -1,4 +1,8 @@
-Below are screen shots of the two dataset notebooks
+Below are screen shots of the SQL-Query (run successfully) and the two dataset notebooks
+
+**SQL-Query**
+
+![1](Screenshots/SQL-Query.PNG)
 
 **Dataset1**
 
