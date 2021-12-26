@@ -48,11 +48,19 @@ Below are screen shots of the SQL-Query (run successfully) and the two dataset n
 
 **SQL-Query Tables**
 
+Customers
+
 ![1](Screenshots/SQL_customers_Table.PNG)
+
+Products
 
 ![2](Screenshots/SQL_products_Table.PNG)
 
+Review_id
+
 ![3](Screenshots/SQL_review_id_table_Table.PNG)
+
+Vine
 
 ![4](Screenshots/SQL_vine_table.PNG)
 
